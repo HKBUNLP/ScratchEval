@@ -10,4 +10,4 @@ All our data is stored in ./data folder.
 
 ## 📜 License
 
-The benchmark was annotated and developed by the authors of this paper, and the dataset is released under the Apache 2.0 license.
+The benchmark was annotated and developed by the authors of this [paper](https://arxiv.org/abs/2411.18932), and the dataset is released under the Apache 2.0 license.
